@@ -5,17 +5,17 @@ import json
 import base64
 import mimetypes
 
-with open("card_template.svg", 'r') as f:
+with open("templates/card_template.svg", 'r') as f:
   _carta = minidom.parse(f)
 
-with open("vereadores.json", 'r', encoding='utf-8') as f:
+with open("dados/vereadores.json", 'r', encoding='utf-8') as f:
   vereadores = json.load(f)
 
-with open("comissoes.json", 'r', encoding='utf-8') as f:
+with open("dados/comissoes.json", 'r', encoding='utf-8') as f:
   _comissoes = json.load(f)
   comissoes = dict(map(lambda c: (c["nome"], c["logo"]), _comissoes))
 
-with open("partidos.json", 'r', encoding='utf-8') as f:
+with open("dados/partidos.json", 'r', encoding='utf-8') as f:
   _partidos = json.load(f)
   partidos = dict(map(lambda p: (p["sigla"], p["img"]), _partidos))
 

@@ -39,7 +39,7 @@ def getfoto(url, base_path):
   
 # exporta json do mesmo modo para cada lista
 def savejson(data, path):
-  with open(path, 'w') as out:
+  with open(path, 'w', encoding='utf-8') as out:
     json.dump(data, out, ensure_ascii=False, indent=2, sort_keys=True)
 
 # cria lista de vereadores
@@ -102,6 +102,6 @@ for comissao in p_comissoes:
 
   comissoes.append(comissao)
 
-savejson(vereadores, "vereadores.json")
-savejson(partidos, "partidos.json")
-savejson(comissoes, "comissoes.json")
+savejson(vereadores, "dados/vereadores.json")
+savejson(partidos, "dados/partidos.json")
+savejson(comissoes, "dados/comissoes.json")

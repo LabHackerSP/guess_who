@@ -1,0 +1,74 @@
+[
+  {
+    "img": "partidos/ptb.png",
+    "sigla": "PTB"
+  },
+  {
+    "img": "partidos/psdb.png",
+    "sigla": "PSDB"
+  },
+  {
+    "img": "partidos/pt.png",
+    "sigla": "PT"
+  },
+  {
+    "img": "partidos/prb.png",
+    "sigla": "PRB"
+  },
+  {
+    "img": "partidos/psb.png",
+    "sigla": "PSB"
+  },
+  {
+    "img": "partidos/psol.png",
+    "sigla": "PSOL"
+  },
+  {
+    "img": "partidos/pr.png",
+    "sigla": "PR"
+  },
+  {
+    "img": "partidos/pp.png",
+    "sigla": "PP"
+  },
+  {
+    "img": "partidos/dem.png",
+    "sigla": "DEM"
+  },
+  {
+    "img": "partidos/psd.png",
+    "sigla": "PSD"
+  },
+  {
+    "img": "partidos/mdb_p.jpg",
+    "sigla": "MDB"
+  },
+  {
+    "img": "partidos/psc.png",
+    "sigla": "PSC"
+  },
+  {
+    "img": "partidos/novo.png",
+    "sigla": "NOVO"
+  },
+  {
+    "img": "partidos/podemos_p.png",
+    "sigla": "PODE"
+  },
+  {
+    "img": "partidos/pv.png",
+    "sigla": "PV"
+  },
+  {
+    "img": "partidos/pps.png",
+    "sigla": "PPS"
+  },
+  {
+    "img": "partidos/pros.png",
+    "sigla": "PROS"
+  },
+  {
+    "img": "partidos/phs.png",
+    "sigla": "PHS"
+  }
+]
