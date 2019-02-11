@@ -105,58 +105,74 @@
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224"
+       template-id="carta1"
        width="71.5"
        height="96.900002"
        x="9.4687738"
-       y="96.422997" />
+       y="96.422997"
+       inkscape:label="carta1" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-8"
+       template-id="carta2"
        width="71.500008"
        height="96.900002"
        x="78.322937"
-       y="96.423004" />
+       y="96.423004"
+       inkscape:label="carta2" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-4"
+       template-id="carta3"
        width="71.500008"
        height="96.900002"
        x="147.17714"
-       y="96.422989" />
+       y="96.422989"
+       inkscape:label="carta3" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-7"
+       template-id="carta4"
        width="71.500008"
        height="96.900002"
        x="216.03136"
-       y="96.422989" />
+       y="96.422989"
+       inkscape:label="carta4" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-0"
+       template-id="carta5"
        width="71.500008"
        height="96.900002"
        x="9.4687748"
-       y="190.6772" />
+       y="190.6772"
+       inkscape:label="carta5" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-8-4"
+       template-id="carta6"
        width="71.500015"
        height="96.900002"
        x="78.322937"
-       y="190.6772" />
+       y="190.6772"
+       inkscape:label="carta6" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-4-6"
+       template-id="carta7"
        width="71.500015"
        height="96.900002"
        x="147.17715"
-       y="190.6772" />
+       y="190.6772"
+       inkscape:label="carta7" />
     <rect
        style="fill:#4abea4;fill-opacity:1;stroke-width:2.31575775"
        id="rect5224-7-2"
+       template-id="carta8"
        width="71.500015"
        height="96.900002"
        x="216.03137"
-       y="190.6772" />
+       y="190.6772"
+       inkscape:label="carta8" />
   </g>
 </svg>
