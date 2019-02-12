@@ -1,13 +1,17 @@
 [
   {
+    "andar": 3,
     "comissoes": {
       "Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia": "Vice-Presidente"
     },
     "foto": "fotos/Vereador_AdilsonAmadeu_2017v2.jpg",
     "nome": "Adilson Amadeu",
-    "partido": "PTB"
+    "partido": "PTB",
+    "sala": 315,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/adilson-amadeu/"
   },
   {
+    "andar": 4,
     "comissoes": {
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
       "Comissão Extraordinária Permanente de Segurança Pública": "Vice-Presidente",
@@ -15,7 +19,9 @@
     },
     "foto": "fotos/Adriana-Ramalho-site-CMSP.jpg",
     "nome": "Adriana Ramalho",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 421,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/adriana-ramalho/"
   },
   {
     "comissoes": {
@@ -23,9 +29,12 @@
     },
     "foto": "fotos/alessandro_guedes_2017.jpg",
     "nome": "Alessandro Guedes",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 605,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/alessandro-guedes/"
   },
   {
+    "andar": 6,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão Extraordinária Permanente de Meio Ambiente": "Membro",
@@ -33,147 +42,199 @@
     },
     "foto": "fotos/14560192_1134347556634715_1888787081855639171_o-1-1.jpg",
     "nome": "Alfredinho",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 620,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/alfredinho/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
     },
     "foto": "fotos/AndreSantos_jun_2017.jpg",
     "nome": "André Santos",
-    "partido": "PRB"
+    "partido": "PRB",
+    "sala": 506,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/andre-santos/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
       "Comissão de Administração Pública": "Membro"
     },
     "foto": "fotos/donato.jpg",
     "nome": "Antonio Donato",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 713,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/donato/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão de Educação, Cultura e Esportes": "Membro"
     },
     "foto": "fotos/arselino-tatto.jpg",
     "nome": "Arselino Tatto",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 1112,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/arselino-tatto/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão Extraordinária Permanente de Segurança Pública": "Membro",
       "Comissão de Finanças e Orçamento": "Membro"
     },
     "foto": "fotos/atilio-francisco.jpg",
     "nome": "Atilio Francisco",
-    "partido": "PRB"
+    "partido": "PRB",
+    "sala": 1010,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/atilio-francisco/"
   },
   {
+    "andar": 6,
     "comissoes": {
       "Comissão de Constituição, Justiça e Legislação Participativa": "Presidente"
     },
     "foto": "fotos/aurelio-nomura.jpg",
     "nome": "Aurélio Nomura",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 618,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/aurelio-nomura/"
   },
   {
+    "andar": 11,
     "foto": "fotos/beto_social_2019.jpg",
     "nome": "Beto do Social",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 1109,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/beto-do-social/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
     },
     "foto": "fotos/Retrato-Caio-Perfil-Facebook_ADP-1.jpg",
     "nome": "Caio Miranda Carneiro",
-    "partido": "PSB"
+    "partido": "PSB",
+    "sala": 1109,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/caio-miranda-carneiro/"
   },
   {
+    "andar": 4,
     "comissoes": {
       "Comissão Extraordinária Permanente do Idoso e de Assistência Social": "Membro",
       "Comissão de Política Urbana, Metropolitana e Meio Ambiente": "Membro"
     },
     "foto": "fotos/camilo_cristo_2017.jpg",
     "nome": "Camilo Cristófaro",
-    "partido": "PSB"
+    "partido": "PSB",
+    "sala": 404,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/camilo-cristofaro/"
   },
   {
     "foto": "fotos/Celso-Giannazi-PSOL.png",
     "nome": "Celso Giannazi",
-    "partido": "PSOL"
+    "partido": "PSOL",
+    "url": "http://www.saopaulo.sp.leg.br/vereador/celso-luis-giannasi/"
   },
   {
+    "andar": 9,
     "comissoes": {
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
     },
     "foto": "fotos/celso_jatene2017.jpg",
     "nome": "Celso Jatene",
-    "partido": "PR"
+    "partido": "PR",
+    "sala": 914,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/celso-jatene/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão de Educação, Cultura e Esportes": "Membro"
     },
     "foto": "fotos/claudinho-de-souza.jpg",
     "mesa_diretora": "2º Suplente",
     "nome": "Claudinho de Souza",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 510,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/claudinho-de-souza/"
   },
   {
+    "andar": 4,
     "comissoes": {
       "Comissão Extraordinária Permanente de Segurança Pública": "Membro",
       "Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia": "Membro"
     },
     "foto": "fotos/conte-lopes.jpg",
     "nome": "Conte Lopes",
-    "partido": "PP"
+    "partido": "PP",
+    "sala": 420,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/conte-lopes/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão de Política Urbana, Metropolitana e Meio Ambiente": "Membro"
     },
     "foto": "fotos/dalton-silvano.jpg",
     "nome": "Dalton Silvano",
-    "partido": "DEM"
+    "partido": "DEM",
+    "sala": 514,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/dalton-silvano/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão Extraordinária Permanente de Meio Ambiente": "Membro",
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
     },
     "foto": "fotos/edir_sales_2017.jpg",
     "nome": "Edir Sales",
-    "partido": "PSD"
+    "partido": "PSD",
+    "sala": 1014,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/edir-sales/"
   },
   {
+    "andar": 4,
     "comissoes": {
       "Comissão Extraordinária Permanente de Direitos Humanos e Cidadania": "Presidente",
       "Comissão de Educação, Cultura e Esportes": "Membro"
     },
     "foto": "fotos/eduardosuplicy2017.jpg",
     "nome": "Eduardo Suplicy",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 417,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/eduardo-suplicy/"
   },
   {
+    "andar": 4,
     "foto": "fotos/Eduardo_Tuma_lan16.jpg",
     "mesa_diretora": "Presidente",
     "nome": "Eduardo Tuma",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 424,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/eduardo-tuma/"
   },
   {
+    "andar": 6,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão de Educação, Cultura e Esportes": "Presidente"
     },
     "foto": "fotos/Foto_Eliseu_Gabriel_portal.jpg",
     "nome": "Eliseu Gabriel",
-    "partido": "PSB"
+    "partido": "PSB",
+    "sala": 623,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/eliseu-gabriel/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão Extraordinária Permanente de Meio Ambiente": "Membro",
       "Comissão Extraordinária Permanente do Idoso e de Assistência Social": "Membro",
@@ -181,40 +242,55 @@
     },
     "foto": "fotos/fabio_riva_2019_OK.jpg",
     "nome": "Fabio Riva",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 1005,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/fabio-riva/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
       "Comissão de Finanças e Orçamento": "Membro"
     },
     "foto": "fotos/fernando_holi_2017.jpg",
     "nome": "Fernando Holiday",
-    "partido": "DEM"
+    "partido": "DEM",
+    "sala": 515,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/fernando-holiday/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia": "Membro"
     },
     "foto": "fotos/george-hato.jpg",
     "nome": "George Hato",
-    "partido": "MDB"
+    "partido": "MDB",
+    "sala": 515,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/george-hato/"
   },
   {
+    "andar": 4,
     "foto": "fotos/Gilberto-Nascimento.jpg",
     "nome": "Gilberto Nascimento",
-    "partido": "PSC"
+    "partido": "PSC",
+    "sala": 415,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/gilberto-nascimento/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão Extraordinária Permanente de Meio Ambiente": "Vice-Presidente",
       "Comissão de Administração Pública": "Presidente"
     },
     "foto": "fotos/gilson-barreto.jpg",
     "nome": "Gilson Barreto",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 721,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/gilson-barreto/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
       "Comissão Extraordinária Permanente de Segurança Pública": "Membro",
@@ -223,17 +299,23 @@
     "foto": "fotos/isac_felix_2017.jpg",
     "mesa_diretora": "2º Secretário",
     "nome": "Isac Felix",
-    "partido": "PR"
+    "partido": "PR",
+    "sala": 520,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/isac-felix/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão de Finanças e Orçamento": "Presidente"
     },
     "foto": "fotos/jair-tatto.jpg",
     "nome": "Jair Tatto",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 1018,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/jair-tatto/"
   },
   {
+    "andar": 6,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Vice-Presidente",
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
@@ -241,18 +323,24 @@
     },
     "foto": "fotos/janaina_lima_2017.jpg",
     "nome": "Janaina Lima",
-    "partido": "NOVO"
+    "partido": "NOVO",
+    "sala": 607,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/janaina-lima/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão Extraordinária Permanente do Idoso e de Assistência Social": "Membro",
       "Comissão de Política Urbana, Metropolitana e Meio Ambiente": "Membro"
     },
     "foto": "fotos/Police_perfil.jpg",
     "nome": "José Police Neto",
-    "partido": "PSD"
+    "partido": "PSD",
+    "sala": 509,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/jose-police-neto/"
   },
   {
+    "andar": 4,
     "comissoes": {
       "Comissão Extraordinária Permanente de Direitos Humanos e Cidadania": "Vice-Presidente",
       "Comissão Extraordinária Permanente do Idoso e de Assistência Social": "Membro",
@@ -260,100 +348,136 @@
     },
     "foto": "fotos/Juliana-Cardoso.jpg",
     "nome": "Juliana Cardoso",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 408,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/juliana-cardoso/"
   },
   {
+    "andar": 5,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão de Administração Pública": "Membro"
     },
     "foto": "fotos/mario_covas-site.jpg",
     "nome": "Mario Covas Neto",
-    "partido": "PODE"
+    "partido": "PODE",
+    "sala": 504,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/mario-covas-neto/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão de Saúde, Promoção Social, Trabalho e Mulher": "Membro"
     },
     "foto": "fotos/DRMilton_Ferreira_2017.jpg",
     "nome": "Milton Ferreira",
-    "partido": "PODE"
+    "partido": "PODE",
+    "sala": 710,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/dr-milton-ferreira/"
   },
   {
+    "andar": 7,
     "foto": "fotos/Milton_Leite_2017maio.jpg",
     "mesa_diretora": "1º Vice Presidente",
     "nome": "Milton Leite",
-    "partido": "DEM"
+    "partido": "DEM",
+    "sala": 719,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/milton-leite/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão de Saúde, Promoção Social, Trabalho e Mulher": "Vice-Presidente"
     },
     "foto": "fotos/natalini.jpg",
     "nome": "Natalini",
-    "partido": "PV"
+    "partido": "PV",
+    "sala": 704,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/natalini/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão de Saúde, Promoção Social, Trabalho e Mulher": "Membro"
     },
     "foto": "fotos/Noemi_jum_2017.jpg",
     "nome": "Noemi Nonato",
-    "partido": "PR"
+    "partido": "PR",
+    "sala": 1116,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/noemi-nonato/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão de Finanças e Orçamento": "Membro"
     },
     "foto": "fotos/ota.jpg",
     "nome": "Ota",
-    "partido": "PSB"
+    "partido": "PSB",
+    "sala": 1114,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/ota/"
   },
   {
+    "andar": 3,
     "comissoes": {
       "Comissão Extraordinária Permanente de Direitos Humanos e Cidadania": "Membro",
       "Comissão de Saúde, Promoção Social, Trabalho e Mulher": "Presidente"
     },
     "foto": "fotos/Patricia-Bezerra.jpg",
     "nome": "Patricia Bezerra",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 313,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/patricia-bezerra/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão de Administração Pública": "Membro"
     },
     "foto": "fotos/frange.jpg",
     "nome": "Paulo Frange",
-    "partido": "PTB"
+    "partido": "PTB",
+    "sala": 1106,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/paulo-frange/"
   },
   {
+    "andar": 6,
     "comissoes": {
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
     },
     "foto": "fotos/Claudio-Fonseca-1.jpg",
     "nome": "Prof. Claudio Fonseca",
-    "partido": "PPS"
+    "partido": "PPS",
+    "sala": 616,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/claudio-fonseca-2/"
   },
   {
+    "andar": 3,
     "comissoes": {
       "Comissão Extraordinária Permanente de Segurança Pública": "Membro",
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
     },
     "foto": "fotos/quito-formiga-2017-1.jpg",
     "nome": "Quito Formiga",
-    "partido": "PSDB"
+    "partido": "PSDB",
+    "sala": 307,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/quito-formiga/"
   },
   {
+    "andar": 3,
     "comissoes": {
       "Comissão Extraordinária Permanente de Meio Ambiente": "Presidente",
       "Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia": "Membro"
     },
     "foto": "fotos/Vereador_ReginaldoTripoli_2017v2.jpg",
     "nome": "Reginaldo Tripoli",
-    "partido": "PV"
+    "partido": "PV",
+    "sala": 308,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/reginaldo-tripoli/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão Extraordinária Permanente de Segurança Pública": "Presidente",
       "Comissão de Constituição, Justiça e Legislação Participativa": "Membro"
@@ -361,43 +485,58 @@
     "foto": "fotos/reis.jpg",
     "mesa_diretora": "1º Secretário",
     "nome": "Reis",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 706,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/reis/"
   },
   {
+    "andar": 9,
     "comissoes": {
       "Comissão de Finanças e Orçamento": "Membro"
     },
     "foto": "fotos/ricardo-nunes.jpg",
     "nome": "Ricardo Nunes",
-    "partido": "MDB"
+    "partido": "MDB",
+    "sala": 908,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/ricardo-nunes/"
   },
   {
+    "andar": 6,
     "comissoes": {
       "Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia": "Membro"
     },
     "foto": "fotos/rteixeira_lan16-1.jpg",
     "nome": "Ricardo Teixeira",
-    "partido": "PROS"
+    "partido": "PROS",
+    "sala": 612,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/ricardo-teixeira/"
   },
   {
+    "andar": 4,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão de Educação, Cultura e Esportes": "Membro"
     },
     "foto": "fotos/rinaldi.jpg",
     "nome": "Rinaldi Digilio",
-    "partido": "PRB"
+    "partido": "PRB",
+    "sala": 407,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/rinaldi-digilio/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão Extraordinária Permanente de Direitos Humanos e Cidadania": "Membro",
       "Comissão de Administração Pública": "Membro"
     },
     "foto": "fotos/Rodrigo_Goulart_2017.jpg",
     "nome": "Rodrigo Goulart",
-    "partido": "PSD"
+    "partido": "PSD",
+    "sala": 1107,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/rodrigo-goulart/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão Extraordinária Permanente de Relações Internacionais": "Membro",
@@ -406,26 +545,35 @@
     "foto": "fotos/rute_costa_193_155.jpg",
     "mesa_diretora": "2º Vice Presidente",
     "nome": "Rute Costa",
-    "partido": "PSD"
+    "partido": "PSD",
+    "sala": 1016,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/rute-costa/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão Extraordinária Permanente do Idoso e de Assistência Social": "Membro",
       "Comissão de Constituição, Justiça e Legislação Participativa": "Vice-Presidente"
     },
     "foto": "fotos/sandra_tadeu_193_155.jpg",
     "nome": "Sandra Tadeu",
-    "partido": "DEM"
+    "partido": "DEM",
+    "sala": 715,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/sandra-tadeu/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão de Trânsito, Transporte, Atividade Econômica, Turismo, Lazer e Gastronomia": "Presidente"
     },
     "foto": "fotos/senival-moura.jpg",
     "nome": "Senival Moura",
-    "partido": "PT"
+    "partido": "PT",
+    "sala": 1008,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/senival-moura/"
   },
   {
+    "andar": 7,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Presidente",
       "Comissão Extraordinária Permanente de Direitos Humanos e Cidadania": "Membro",
@@ -435,9 +583,12 @@
     "foto": "fotos/soninha_193_155-1.jpg",
     "mesa_diretora": "1º Suplente",
     "nome": "Soninha",
-    "partido": "PPS"
+    "partido": "PPS",
+    "sala": 709,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/soninha/"
   },
   {
+    "andar": 10,
     "comissoes": {
       "Comissão Extraordinária Permanente de Defesa dos Direitos da Criança, do Adolescente e da Juventude": "Membro",
       "Comissão de Política Urbana, Metropolitana e Meio Ambiente": "Membro"
@@ -445,32 +596,43 @@
     "foto": "fotos/Vereador_SouzaSantos_2017v2.jpg",
     "mesa_diretora": "Corregedor Geral",
     "nome": "Souza Santos",
-    "partido": "PRB"
+    "partido": "PRB",
+    "sala": 1015,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/souza-santos/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão Extraordinária Permanente do Idoso e de Assistência Social": "Presidente",
       "Comissão de Política Urbana, Metropolitana e Meio Ambiente": "Presidente"
     },
     "foto": "fotos/toninho-paiva.jpg",
     "nome": "Toninho Paiva",
-    "partido": "PR"
+    "partido": "PR",
+    "sala": 1121,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/toninho-paiva/"
   },
   {
+    "andar": 3,
     "comissoes": {
       "Comissão Extraordinária Permanente de Direitos Humanos e Cidadania": "Membro",
       "Comissão de Educação, Cultura e Esportes": "Membro"
     },
     "foto": "fotos/toninho-vespoli.jpg",
     "nome": "Toninho Vespoli",
-    "partido": "PSOL"
+    "partido": "PSOL",
+    "sala": 304,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/toninho-vespoli/"
   },
   {
+    "andar": 11,
     "comissoes": {
       "Comissão de Educação, Cultura e Esportes": "Vice-Presidente"
     },
     "foto": "fotos/ZT-6_corte_192.png",
     "nome": "Zé Turin",
-    "partido": "PHS"
+    "partido": "PHS",
+    "sala": 1117,
+    "url": "http://www.saopaulo.sp.leg.br/vereador/ze-turin/"
   }
 ]

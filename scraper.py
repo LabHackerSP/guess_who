@@ -52,7 +52,9 @@ for elem in vereadores_list:
     img_partido = elem.find(attrs={"class":"vereador-party"}).find("img")
     img_vereador = elem.find(attrs={"class":"vereador-picture"}).find("img")
     vereador["foto"] = getfoto(img_vereador.get("src"), "fotos/")
-    vereador["nome"] = elem.find(attrs={"class":"vereador-name"}).find("a").string.strip()
+    a_vereador = elem.find(attrs={"class":"vereador-name"}).find("a")
+    vereador["url"] = a_vereador.get("href")
+    vereador["nome"] = a_vereador.string.strip()
     vereador["partido"] = img_partido.get("title")
     vereadores.append(vereador)
 
@@ -101,6 +103,19 @@ for comissao in p_comissoes:
         vereador["comissoes"] = {comissao["nome"] : cargo}
 
   comissoes.append(comissao)
+
+# busca salas de cada vereador
+for vereador in vereadores:
+  page_vereador = urlopen(vereador["url"])
+  soup_vereador = BeautifulSoup(page_vereador, 'html.parser')
+  tag_andar = soup_vereador.find(attrs={"class":"vereador-data"}).find(text=re.compile(r'Andar:'))
+  if tag_andar is not None:
+    andar = int(re.search(r'\d+', tag_andar.parent.parent.__str__()).group())
+    vereador["andar"] = andar
+  tag_sala = soup_vereador.find(attrs={"class":"vereador-data"}).find(text=re.compile(r'Sala:'))
+  if tag_sala is not None:
+    sala = int(re.search(r'\d+', tag_sala.parent.parent.__str__()).group())
+    vereador["sala"] = sala
 
 savejson(vereadores, "dados/vereadores.json")
 savejson(partidos, "dados/partidos.json")
