@@ -46,9 +46,20 @@ def gera_vereadores(start, end, num):
     elem_partido = xpath.find("./*[@inkscape:label='partido']", elem_vereador)[0]
     elem_partido.setAttribute("xlink:href", openBase64(partidos[vereador["partido"]]))
 
+    # troca sala
+    elem_sala = xpath.find("./*[@inkscape:label='texto_sala']/tspan/text()", elem_vereador)[0]
+    try:
+      if vereador["sala"]:
+        elem_sala.nodeValue = str(vereador["sala"])
+    except KeyError:
+      elem_sala.parentNode.parentNode.parentNode.removeChild(elem_sala.parentNode.parentNode)
+      elem_sala_caption = xpath.find("./*[@inkscape:label='texto_sala_caption']", elem_vereador)[0]
+      elem_sala_caption.parentNode.removeChild(elem_sala_caption)
+    
     # troca comissões
     comissao = 1
     elem_comissao = xpath.find(f"./*[@inkscape:label='comiss{comissao}']", elem_vereador)[0]
+
     
     # tenta primeira comissão mesa diretora
     try:

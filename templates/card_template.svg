@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="341.25642"
-     inkscape:cy="160.2307"
+     inkscape:zoom="1.979899"
+     inkscape:cx="141.73231"
+     inkscape:cy="174.4499"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,14 +138,14 @@
      id="layer1"
      transform="translate(0,-208.09998)">
     <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\fotos/soninha_193_155-1.jpg"
-       xlink:href="fotos/soninha_193_155-1.jpg"
-       y="210.12978"
-       x="-1.7943153"
-       id="image_foto"
-       preserveAspectRatio="none"
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../fotos/soninha_193_155-1.jpg"
+       xlink:href="../fotos/soninha_193_155-1.jpg"
+       width="65.912025"
        height="52.934536"
-       width="65.912025" />
+       preserveAspectRatio="none"
+       id="image_foto"
+       x="-1.7943153"
+       y="210.12978" />
     <rect
        style="fill:#b376d7;fill-opacity:1;stroke-width:0.27266017"
        id="rect5773"
@@ -156,7 +156,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4614"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:'Fira Sans';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Sans';font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion4616"><rect
            id="rect4618"
            width="65.35714"
@@ -166,7 +166,7 @@
          id="flowPara4620" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4622"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:'Fira Sans';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Fira Sans';font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion4624"><rect
            id="rect4626"
            width="64.10714"
@@ -176,7 +176,7 @@
          id="flowPara4628" /></flowRoot>    <path
        transform="matrix(1,0,-0.49045926,0.87146412,0,0)"
        style="opacity:1;fill:#b376d7;fill-opacity:1;stroke-width:0.10806371"
-       d="m 111.62944,235.75748 12.55946,0 v 22.22726 l -1.6579,0 z"
+       d="m 111.62944,235.75748 h 12.55946 v 22.22726 h -1.6579 z"
        id="rect4259-5-9-3-7-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -207,12 +207,12 @@
     <path
        transform="matrix(1,0,-0.49045926,0.87146412,0,0)"
        style="opacity:1;fill:#4abea4;fill-opacity:1;stroke-width:0.10806371"
-       d="m 170.52405,235.75748 12.60539,0 4.25727,8.68017 -16.86266,0 z"
+       d="m 170.52405,235.75748 h 12.60539 l 4.25727,8.68017 h -16.86266 z"
        id="rect4259-2-0-9-7-7-0-5-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <g
-       transform="matrix(0.0310024,0,0,0.0310024,46.832304,268.40635)"
+       transform="matrix(0.02810927,0,0,0.02810927,47.98523,270.67786)"
        id="layer1-4">
       <path
          style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -240,60 +240,60 @@
       </g>
     </g>
     <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\comissoes/Finanças_Black-125x125.png"
-       xlink:href="comissoes/Finanças_Black-125x125.png"
-       y="274.63272"
-       x="3.9999981"
-       id="image_comiss4"
-       preserveAspectRatio="none"
-       height="8.5640564"
-       width="8.5640564" />
-    <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\comissoes/Justiça_Black-125x125.png"
-       xlink:href="comissoes/Justiça_Black-125x125.png"
-       y="274.63272"
-       x="13.803194"
-       id="image_comiss5"
-       preserveAspectRatio="none"
-       height="8.5640564"
-       width="8.5640564" />
-    <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\comissoes/PoliticaUrbana_Black-125x125.png"
-       xlink:href="comissoes/PoliticaUrbana_Black-125x125.png"
-       y="274.63272"
-       x="23.606392"
-       id="image_comiss6"
-       preserveAspectRatio="none"
-       height="8.5640564"
-       width="8.5640564" />
-    <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\partidos/pps.png"
-       xlink:href="partidos/pps.png"
-       y="260.86539"
-       x="48.916668"
-       id="image_partido"
-       preserveAspectRatio="none"
-       height="10.583333"
-       width="10.583333" />
-    <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\comissoes/Justiça_Black-125x125.png"
-       xlink:href="comissoes/Justiça_Black-125x125.png"
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../comissoes/Finanças_Black-125x125.png"
+       xlink:href="../comissoes/Finanças_Black-125x125.png"
        width="8.5640564"
        height="8.5640564"
        preserveAspectRatio="none"
-       id="image_comiss1"
-       x="4"
-       y="284.43591"
-       inkscape:label="#image_comiss1" />
+       id="image_comiss4"
+       x="3.9999981"
+       y="274.63272" />
     <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\comissoes/mesa_diretora.png"
-       xlink:href="comissoes/mesa_diretora.png"
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../comissoes/Justiça_Black-125x125.png"
+       xlink:href="../comissoes/Justiça_Black-125x125.png"
+       width="8.5640564"
+       height="8.5640564"
+       preserveAspectRatio="none"
+       id="image_comiss5"
+       x="13.803194"
+       y="274.63272" />
+    <image
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../comissoes/PoliticaUrbana_Black-125x125.png"
+       xlink:href="../comissoes/PoliticaUrbana_Black-125x125.png"
+       width="8.5640564"
+       height="8.5640564"
+       preserveAspectRatio="none"
+       id="image_comiss6"
+       x="23.606392"
+       y="274.63272" />
+    <image
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../partidos/pps.png"
+       xlink:href="../partidos/pps.png"
+       width="10.583333"
+       height="10.583333"
+       preserveAspectRatio="none"
+       id="image_partido"
+       x="48.916668"
+       y="260.86539" />
+    <image
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../comissoes/Justiça_Black-125x125.png"
+       xlink:href="../comissoes/Justiça_Black-125x125.png"
+       inkscape:label="#image_comiss1"
        y="284.43591"
-       x="13.803196"
-       id="image_comiss2"
+       x="4"
+       id="image_comiss1"
        preserveAspectRatio="none"
        height="8.5640564"
        width="8.5640564" />
+    <image
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../comissoes/mesa_diretora.png"
+       xlink:href="../comissoes/mesa_diretora.png"
+       width="8.5640564"
+       height="8.5640564"
+       preserveAspectRatio="none"
+       id="image_comiss2"
+       x="13.803196"
+       y="284.43591" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -3.9999999,296.99998 c 0.6528802,0 2.3109265,0 2.5634262,0"
@@ -343,15 +343,15 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <image
-       sodipodi:absref="D:\Seafile\work\lab\guess_who\comissoes/Justiça_Black-125x125.png"
-       xlink:href="comissoes/Justiça_Black-125x125.png"
-       inkscape:label="#image_comiss3"
-       width="8.5640564"
-       height="8.5640564"
-       preserveAspectRatio="none"
-       id="image_comiss3"
+       sodipodi:absref="D:\Seafile\work\lab\guess_who\templates\../comissoes/Justiça_Black-125x125.png"
+       xlink:href="../comissoes/Justiça_Black-125x125.png"
+       y="284.43591"
        x="23.606392"
-       y="284.43591" />
+       id="image_comiss3"
+       preserveAspectRatio="none"
+       height="8.5640564"
+       width="8.5640564"
+       inkscape:label="#image_comiss3" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -363,5 +363,27 @@
          x="26.458332"
          y="267.39389"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';stroke-width:0.26458332">content_nome</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="58.886642"
+       y="277.62292"
+       id="texto_sala_caption"><tspan
+         sodipodi:role="line"
+         id="tspan1710"
+         x="58.886642"
+         y="277.62292"
+         style="font-weight:bold;font-size:3.52777767px;text-align:end;text-anchor:end;stroke-width:0.26458332">Sala:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="58.886642"
+       y="280.88965"
+       id="texto_sala"><tspan
+         sodipodi:role="line"
+         id="tspan1710-3"
+         x="58.886642"
+         y="280.88965"
+         style="font-weight:normal;font-size:3.52777767px;text-align:end;text-anchor:end;stroke-width:0.26458332">1234</tspan></text>
   </g>
 </svg>

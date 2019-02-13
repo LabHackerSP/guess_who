@@ -44,6 +44,16 @@ for vereador in vereadores:
   elem_foto.removeAttribute("sodipodi:absref")
   elem_foto.setAttribute("xlink:href", openBase64(vereador["foto"]))
 
+  # troca sala
+  elem_sala = xpath.find("//*[@id='texto_sala']/tspan/text()", carta)[0]
+  try:
+    if vereador["sala"]:
+      elem_sala.nodeValue = str(vereador["sala"])
+  except KeyError:
+    elem_sala.parentNode.parentNode.parentNode.removeChild(elem_sala.parentNode.parentNode)
+    elem_sala_caption = xpath.find("//*[@id='texto_sala_caption']", carta)[0]
+    elem_sala_caption.parentNode.removeChild(elem_sala_caption)
+
   # troca comissões
   comissao = 1
   elem_comissao = xpath.find(f"//*[@id='image_comiss{comissao}']", carta)[0]
